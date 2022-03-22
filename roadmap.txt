@@ -1,4 +1,5 @@
-We update the game often - please check the store page for detailed update notes.
+Hi, we have just pushed a new update which also fixes invisible wall issues a
+few players were experiencing.
 
 Our next update ( due <color=#ff0>late April 2022</color> ) will feature an <color=#ff0>improved homebase</color> and <color=#ff0>new level content</color>.
 
