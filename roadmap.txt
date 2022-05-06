@@ -1,7 +1,7 @@
-﻿Update 6 is now live, revamping the <color=#ff0>Homebase</color>!
+﻿Update 6 is now live, revamping the <color=#0f6>Homebase</color>!
 Please check the build notes for full details.
 
-Our next update ( due <color=#ff0>July 2022</color> ) will feature a <color=#ff0>new level area</color> and various new <color=#ff0>acid-related mechanics</color>.
+Our next update ( due <color=#fd0>July 2022</color> ) will feature a <color=#0f6>new level area</color> and various new <color=#0f6>acid-related mechanics</color>.
 
 Your support means a lot:
 
