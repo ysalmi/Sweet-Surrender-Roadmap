@@ -1,11 +1,11 @@
-﻿Update 6 is now live, revamping the <color=#0f6>Homebase</color>!
+Update 7 is live with a new area <color=#0f6>- The Sewers -</color> and tons of improvements!
 Please check the build notes for full details.
 
-Our next update ( due <color=#fd0>July 2022</color> ) will feature a <color=#0f6>new level area</color> and various new <color=#0f6>acid-related mechanics</color>.
+<color=#0f6>The Sewers</color> features new levels and rooms, new weapons, new interaction mechanics and <color=#ddff>acid-related mechanics</color>.
 
 Your support means a lot:
 
 • We listen to feedback - it helps us make a better game
-• Check out our Roadmap for more details
+• Check our Roadmap for more details on upcoming updates
 • If you want to chat with us and like-minded players, join our Discord
 • If you enjoy the game, please leave a positive review, it helps a lot.
