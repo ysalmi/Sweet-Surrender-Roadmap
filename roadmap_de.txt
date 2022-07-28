@@ -1,9 +1,10 @@
-﻿Update 6 ist frei geschaltet und verbessert die <color=#0f6>Homebase</color>. Bitte besucht unsere Store-Seite für detaillierte Update-Hinweise.
+Update 7 ist live mit einem neuen Distrikt <color=#0f6>- Die Kanäle -</color> und vielen Verbesserungen!
+Für detaillierte Informationen schaut in die Patch Notes.
 
-Unser nächstes Update (voraussichtlich <color=#fd0>Juli 2022</color>) wird ein <color=#0f6>neues Gebiet</color> und neue <color=#0f6>Säure Mechaniken</color> beinhalten.
+<color=#0f6>Die Kanäle</color> bringen eine Menge neue Features ins Spiel. Dazu gehören neue Level, Räume, Waffen, neue Möglichkeiten zur Interaktion mit der Umgebung - mit oder ohne Säure.
 
-Ihre Unterstützung bedeutet viel:
-• Wir hören auf euer Feedback – es hilft uns, das Spiel zu verbessern
-• Weitere Einzelheiten findet ihr in unserer Roadmap
-• Wenn Du mit uns und anderen Gleichgesinnten chatten möchten, trete unserem Discord bei
-• Wenn dir das Spiel gefällt, hinterlasse bitte eine positive Bewertung, es hilft uns sehr.
+Eure Unterstützung bedeutet uns eine Menge:
+• Wir hören auf euer Feedback - dadurch können wir das Spiel verbesern
+• Werft einen Blick auf die Roadmap - dort könnt ihr sehen, was euch noch in Zukunft erwartet
+• Tretet unserem Discord bei - dort könnt ihr euch mit uns und anderen Spielern unterhalten.
+• Bewertet das Spiel, wenn es euch gefällt - oder kritisiert, was euch nicht gefällt, damit wir es verbessern können.
