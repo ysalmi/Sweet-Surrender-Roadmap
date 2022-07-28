@@ -1,10 +1,9 @@
 Update 7 is live with a new area <color=#0f6>- The Sewers -</color> and tons of improvements!
 Please check the build notes for full details.
 
-<color=#0f6>The Sewers</color> features new levels and rooms, new weapons, new interaction mechanics and <color=#ddff>acid-related mechanics</color>.
+<color=#0f6>The Sewers</color> features new levels and rooms, new weapons, new interaction mechanics and <color=#ddff00>acid-related mechanics</color>.
 
 Your support means a lot:
-
 • We listen to feedback - it helps us make a better game
 • Check our Roadmap for more details on upcoming updates
 • If you want to chat with us and like-minded players, join our Discord
