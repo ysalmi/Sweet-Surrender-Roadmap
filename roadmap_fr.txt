@@ -1,8 +1,11 @@
 
-Update 7 ist live mit einem neuen Distrikt <color=#0f6>- Die Kanäle -</color> und vielen Verbesserungen und Features!
-Dazu gehören neue Level, Räume, Waffen, neue Möglichkeiten zur Interaktion mit der Umgebung - mit oder ohne Säure. Für detaillierte Informationen schaut in die Patch Notes.
+Update 7 is live with a new area <color=#0f6>- The Sewers -</color> and tons of improvements!
+Please check the build notes for full details.
 
-Eure Unterstützung bedeutet uns eine Menge:
-• Wir hören auf euer Feedback - dadurch können wir das Spiel verbesern
-• Werft einen Blick auf die Roadmap - dort könnt ihr sehen, was euch noch in Zukunft erwartet
-• Tretet unserem Discord bei - dort könnt ihr euch mit uns und anderen Spielern unterhalten.
+<color=#0f6>The Sewers</color> features new levels and rooms, new weapons, new interaction mechanics and <color=#ddff00>acid-related mechanics</color>.
+
+Your support means a lot:
+• We listen to feedback - it helps us make a better game
+• Check our Roadmap for details on upcoming updates
+• If you want to chat with us and like-minded players, join our Discord
+• If you enjoy the game, please leave a positive review, it helps a lot.
