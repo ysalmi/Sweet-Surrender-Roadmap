@@ -1,7 +1,7 @@
 
-Update 8 - <color=#0f6>Melee Mayhem: Reaper's Legacy</color> is now live!
-3 new Melee <color=#0f6>Weapons</color>, New Melee <color=#0f6>Class</color>
-5 new Lines of Upgrade <color=#0f6>Chips</color>
+Update 8 - <color=#dc5300>Melee Mayhem: Reaper's Legacy</color> is now live!
+3 new Melee <color=#dc5300>Weapons</color>, New Melee <color=#dc5300>Class</color>
+5 new Lines of Upgrade <color=#dc5300>Chips</color>
 
 Please check the build notes for full details.
 
