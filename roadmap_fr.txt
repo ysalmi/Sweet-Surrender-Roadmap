@@ -1,8 +1,7 @@
 
-Update 7 is live with a new area <color=#0f6>- The Sewers -</color> and tons of improvements!
-Please check the build notes for full details.
-
-<color=#0f6>The Sewers</color> features new levels and rooms, new weapons, new interaction mechanics and <color=#ddff00>acid-related mechanics</color>.
+Update 8 - <color=#fe3657>Melee Mayhem: Reaper's Legacy</color> is now live!
+new Melee <color=#fe3657>Weapons</color>, New Melee <color=#fe3657>Class</color>
+new Lines of Upgrade <color=#fe3657>Chips</color>
 
 Your support means a lot:
 • We listen to feedback - it helps us make a better game
