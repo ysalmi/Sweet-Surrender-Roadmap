@@ -1,7 +1,7 @@
 
-Update 8 - <color=#fe3657>Melee Mayhem: Reaper's Legacy</color> is now live!
-3 new Melee <color=#fe3657>Weapons</color>, New Melee <color=#fe3657>Class</color>
-5 new Lines of Upgrade <color=#fe3657>Chips</color>
+Update 9 - <color=#fe3657>Update 9: Long Term Progression Update</color> is now live!
+Invest your <color=#fe3657>gears</color> into the <color=#fe3657>vending station</color> and unlock permanent improvements!
+Improved tutorial, better enemy balancing in the mines and tons of bug fixes.
 
 Please check the build notes for full details.
 
