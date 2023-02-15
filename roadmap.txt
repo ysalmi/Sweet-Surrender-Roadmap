@@ -1,6 +1,6 @@
 
-Update 9 - <color=#fe3657>Update 9: Long Term Progression Update</color> is now live!
-Invest your <color=#fe3657>gears</color> into the <color=#fe3657>vending station</color> and unlock permanent improvements!
+Update 9 - <color=#ffea46>Update 9: Long Term Progression Update</color> is now live!
+Invest your <color=#ffea46>gears</color> into the <color=#ffea46>vending station</color> and unlock permanent improvements!
 Improved tutorial, better enemy balancing in the mines and tons of bug fixes.
 
 Please check the build notes for full details.
