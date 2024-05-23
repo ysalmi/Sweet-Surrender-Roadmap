@@ -1,12 +1,14 @@
 
-Update 9 – <color=#ffea46>: Long Term Progression Update</color> ist jetzt live!
-Investiere deine <color=#ffea46>Zahnräder</color> in die <color=#ffea46>Verkaufsstation</color> und schalte dauerhafte Verbesserungen frei!
-Verbessertes Tutorial, besseres Feind-Balancing in den Minen und eine Menge an Fehlerbehebungen.
+<align="center"><color=#4275f5>Update 10: Resurrection</color> - May 2024</color></align>
 
-Für mehr Informationen, schau bitte in die Patch Notes.
+<color=#ad42f5>Visual Overhaul</color>, <color=#f54242>Boss Revamp</color>, Improved <color=#42f554>Weapon Recoil</color>, <color=#ffea46>Unstuck Button</color>, 100's of smaller improvements.
 
-Eure Unterstützung bedeutet uns viel:
-• Wir hören auf Feedback – es hilft uns, ein besseres Spiel zu machen
-• In unserer Roadmap findest du Einzelheiten zu bevorstehenden Updates
-• Wenn du mit uns und gleichgesinnten Spielern chatten möchten, tritt unserem Discord bei
-• Wenn dir das Spiel gefällt, hinterlasse bitte eine positive Bewertung, es hilft uns sehr.
+Check the new <color=#42f5d7>Graphic Settings</color> Menu!
+See build notes for full details. Enjoy!
+
+
+<color=#ffea46>Your support means a lot:</color>
+• Feedback - it helps us make a better game
+• Roadmap - details on upcoming updates
+• Discord - come chat with us and like-minded players
+• Reviews - If you enjoyed the game, please leave a positive review, it helps a lot.
