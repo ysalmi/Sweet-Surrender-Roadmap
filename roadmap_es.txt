@@ -1,13 +1,12 @@
 
 <align="center"><color=#4275f5>Actualización 10: Resurrección</color> - Mayo 2024</color></align>
-
 <color=#ad42f5>Revisión Visual</color>, <color=#f54242>Reforma de Jefes</color>, Mejora del <color=#42f554>Retroceso de Armas</color>, <color=#ffea46>Botón de Desatascar</color>, cientos de mejoras menores.
 
 ¡Revisa el nuevo Menú de <color=#42f5d7>Ajustes Gráficos</color>!
-Consulta las notas de la versión para obtener todos los detalles. ¡Disfruta!
+Consulte el blog para conocer todos los detalles.
 
 <color=#ffea46>Tu apoyo significa mucho:</color>
 • Comentarios - nos ayudan a mejorar el juego
 • Hoja de ruta - detalles sobre las próximas actualizaciones
-• Discord - ven a charlar con nosotros y con jugadores afines
+• Discord - Ven a charlar con jugadores de ideas afines
 • Reseñas - Si disfrutaste el juego, por favor deja una reseña positiva, ayuda mucho.
