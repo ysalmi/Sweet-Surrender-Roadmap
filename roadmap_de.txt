@@ -1,14 +1,13 @@
 
-<align="center"><color=#4275f5>Update 10: Resurrection</color> - May 2024</color></align>
+<align="center"><color=#4275f5>Update 10: Auferstehung</color> - Mai 2024</color></align>
 
-<color=#ad42f5>Visual Overhaul</color>, <color=#f54242>Boss Revamp</color>, Improved <color=#42f554>Weapon Recoil</color>, <color=#ffea46>Unstuck Button</color>, 100's of smaller improvements.
+<color=#ad42f5>Visuelles Überarbeiten</color>, <color=#f54242>Boss-Überarbeitung</color>, Verbesserter <color=#42f554>Waffenrückstoß</color>, <color=#ffea46>Freischalt-Button</color>, Hunderte kleiner Verbesserungen.
 
-Check the new <color=#42f5d7>Graphic Settings</color> Menu!
-See build notes for full details. Enjoy!
+Überprüfen Sie das neue Menü für <color=#42f5d7>Grafikeinstellungen</color>!
+Siehe die Versionshinweise für alle Details. Viel Spaß!
 
-
-<color=#ffea46>Your support means a lot:</color>
-• Feedback - it helps us make a better game
-• Roadmap - details on upcoming updates
-• Discord - come chat with us and like-minded players
-• Reviews - If you enjoyed the game, please leave a positive review, it helps a lot.
+<color=#ffea46>Ihre Unterstützung bedeutet uns viel:</color>
+• Feedback - Es hilft uns, ein besseres Spiel zu machen
+• Fahrplan - Details zu kommenden Updates
+• Discord - Chatte mit uns und gleichgesinnten Spielern
+• Bewertungen - Wenn Ihnen das Spiel gefallen hat, hinterlassen Sie bitte eine positive Bewertung
