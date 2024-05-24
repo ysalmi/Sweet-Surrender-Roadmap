@@ -1,13 +1,12 @@
 
 <align="center"><color=#4275f5>Mise à jour 10 : Résurrection</color> - Mai 2024</color></align>
-
 <color=#ad42f5>Refonte Visuelle</color>, <color=#f54242>Refonte du Boss Final</color>, Amélioration du <color=#42f554>Recul des Armes</color>, <color=#ffea46>Bouton de Déblocage</color>, des centaines de petites améliorations.
 
 Vérifiez le nouveau Menu des <color=#42f5d7>Paramètres Graphiques</color> !
-Consultez les notes de version pour tous les détails. Profitez-en !
+Consultez les notes de version pour tous détails.
 
 <color=#ffea46>Votre soutien compte beaucoup :</color>
 • Feedback - cela nous aide à améliorer le jeu
 • Feuille de route - détails sur les mises à jour à venir
 • Discord - venez discuter avec nous et des joueurs partageant les mêmes idées
-• Avis - Si vous avez aimé le jeu, veuillez laisser un avis positif, cela aide beaucoup.
+• Avis - aimez-vous le jeu? Veuillez laisser un avis positif, merci!
