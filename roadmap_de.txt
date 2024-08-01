@@ -1,9 +1,8 @@
 
-<align="center"><color=#4275f5>Update 10: Auferstehung</color> - Mai 2024</color></align>
+<align="center"><color=#4275f5>Update 11: Lebensqualität</color> - August 2024</color></align>
 
-<color=#ad42f5>Visuelles Überarbeiten</color>, <color=#f54242>Boss-Überarbeitung</color>, Verbesserter <color=#42f554>Waffenrückstoß</color>, <color=#ffea46>Freischalt-Button</color>, Hunderte kleiner Verbesserungen.
+<color=#FF9F80>Neuer Trainingsmodus</color> und <color=#ffea46>Verbesserungen</color> bei Kollisionen und Physik, Klassenbalance, Waffen-Feeling, Teleportation, Chip-Nutzung, Level-Layouts und vieles mehr.
 
-Überprüfen Sie das neue Menü für <color=#42f5d7>Grafikeinstellungen</color>!
 Siehe die Versionshinweise für alle Details. Viel Spaß!
 
 <color=#ffea46>Ihre Unterstützung bedeutet uns viel:</color>
