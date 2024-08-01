@@ -1,11 +1,9 @@
 
-<align="center"><color=#4275f5>Update 10: Resurrection</color> - May 2024</color></align>
+<align="center"><color=#4275f5>Update 11: Quality of Life</color> - August 2024</color></align>
 
-<color=#ad42f5>Visual Overhaul</color>, <color=#f54242>Boss Revamp</color>, Improved <color=#42f554>Weapon Recoil</color>, <color=#ffea46>Unstuck Button</color>, 100's of smaller improvements.
+<color=#FF9F80>New Trainee Mode</color> and <color=#ffea46>Improvements</color> in Collisions and Physics, Class Balancing, Weapon Feel, Teleportation, Chip Usage, Level Layouts and tons more.
 
-Check the new <color=#42f5d7>Graphic Settings</color> Menu!
 See build notes for full details. Enjoy!
-
 
 <color=#ffea46>Your support means a lot:</color>
 • Feedback - it helps us make a better game
