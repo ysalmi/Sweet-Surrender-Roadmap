@@ -1,8 +1,8 @@
 
-<align="center"><color=#4275f5>Actualización 10: Resurrección</color> - Mayo 2024</color></align>
-<color=#ad42f5>Revisión Visual</color>, <color=#f54242>Reforma de Jefes</color>, Mejora del <color=#42f554>Retroceso de Armas</color>, <color=#ffea46>Botón de Desatascar</color>, cientos de mejoras menores.
+<align="center"><color=#4275f5>Actualización 11: Calidad de Vida</color> - Agosto 2024</color></align>
 
-¡Revisa el nuevo Menú de <color=#42f5d7>Ajustes Gráficos</color>!
+<color=#FF9F80>Nuevo Modo de Entrenamiento</color> y <color=#ffea46>Mejoras</color> en Colisiones y Física, Balanceo de Clases, Sensación de Armas, Teletransportación, Uso de Chips, Diseños de Niveles y mucho más.
+
 Consulte el blog para conocer todos los detalles.
 
 <color=#ffea46>Tu apoyo significa mucho:</color>
