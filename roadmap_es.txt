@@ -1,7 +1,8 @@
 
-<align="center"><color=#4275f5>Actualización 11: Calidad de Vida</color> - Agosto 2024</color></align>
+<align="center"><color=#4275f5>Actualización 12.1: Jefe final 2.0</color> – Septiembre 2024</color></align>
 
-<color=#FF9F80>Nuevo Modo de Entrenamiento</color> y <color=#ffea46>Mejoras</color> en Colisiones y Física, Balanceo de Clases, Sensación de Armas, Teletransportación, Uso de Chips, Diseños de Niveles y mucho más.
+Hemos renovado al <color=#FF9F80>jefe final</color> desde cero. También estamos celebrando <color=#ffea46>3 años increíbles</color> de actualizaciones desde el lanzamiento. ¡Gracias por todo su apoyo!
+
 
 Consulte el blog para conocer todos los detalles.
 
