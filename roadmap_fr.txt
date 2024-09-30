@@ -1,7 +1,7 @@
 
-<align="center"><color=#4275f5>Mise à jour 11 : Qualité de Vie</color> - Août 2024</color></align>
+<align="center"><color=#4275f5>Mise à jour 12.1 : Boss final 2.0</color> – Septembre 2024</color></align>
 
-<color=#FF9F80>Nouveau Mode Entraînement</color> et <color=#ffea46>Améliorations</color> des Collisions et de la Physique, de l'Équilibrage des Classes, de la Sensation des Armes, de la Téléportation, de l'Utilisation des Puces, des Dispositions des Niveaux et bien plus encore.
+Nous avons entièrement refondu le <color=#FF9F80>boss final</color>. Nous célébrons également <color=#ffea46>3 années incroyables</color> de mises à jour depuis le lancement. Merci pour tout votre soutien !
 
 Consultez les notes de version pour tous détails.
 
