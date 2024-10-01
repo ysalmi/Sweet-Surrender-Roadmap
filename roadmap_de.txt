@@ -1,7 +1,7 @@
 
-<align="center"><color=#4275f5>Update 11: Lebensqualität</color> - August 2024</color></align>
+<align="center"><color=#4275f5>Update 12.1: Endboss 2.0</color> – September 2024</color></align>
 
-<color=#FF9F80>Neuer Trainingsmodus</color> und <color=#ffea46>Verbesserungen</color> bei Kollisionen und Physik, Klassenbalance, Waffen-Feeling, Teleportation, Chip-Nutzung, Level-Layouts und vieles mehr.
+Wir haben den <color=#FF9F80>Endboss</color> von Grund auf überarbeitet. Außerdem feiern wir <color=#ffea46>unglaubliche 3 Jahre</color> voller Updates seit dem Launch. Vielen Dank für eure Unterstützung!
 
 Siehe die Versionshinweise für alle Details. Viel Spaß!
 
