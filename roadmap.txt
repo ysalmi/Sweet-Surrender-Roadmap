@@ -1,7 +1,7 @@
 
-<align="center"><color=#4275f5>Update 12.1: Final Boss 2.0</color> - September 2024</color></align>
+<align="center"><color=#4275f5>Update 13: New Visuals</color> - October 2024</color></align>
 
-We revamped the <color=#FF9F80>final boss</color> from the ground up. We're also celebrating an <color=#ffea46>incredible 3 years</color> of updates since launch. Thanks for all your support!
+We added tons of <color=#FF9F80>new visuals, effects and animations</color> in all areas of the game. We've re-worked the Mobile Malware <color=#335fff>EMP Chips</color> for better balancing and further improved the <color=#ffea46>Grenade Launchers</color> and Explosion Chips.
 
 See build notes for full details. Enjoy!
 
