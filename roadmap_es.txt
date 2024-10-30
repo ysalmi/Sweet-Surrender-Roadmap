@@ -1,7 +1,7 @@
 
-<align="center"><color=#4275f5>Actualización 12.1: Jefe final 2.0</color> – Septiembre 2024</color></align>
+<align="center"><color=#4275f5>Actualización 13: Nuevos efectos visuales</color> - Octubre 2024</color></align>
 
-Hemos renovado al <color=#FF9F80>jefe final</color> desde cero. También estamos celebrando <color=#ffea46>3 años increíbles</color> de actualizaciones desde el lanzamiento. ¡Gracias por todo su apoyo!
+Hemos añadido un montón de <color=#FF9F80>nuevos efectos visuales, animaciones</color> y mejoras en todas las áreas del juego. Hemos reequilibrado los <color=#335fff>chips EMP</color> del malware móvil para un mejor balance y mejorado aún más los <color=#ffea46>lanzagranadas</color> y los chips de explosión.
 
 Consulte el blog para conocer todos los detalles.
 

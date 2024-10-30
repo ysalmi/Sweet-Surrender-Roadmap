@@ -1,7 +1,7 @@
 
-<align="center"><color=#4275f5>Update 12.1: Endboss 2.0</color> – September 2024</color></align>
+<align="center"><color=#4275f5>Update 13: Neue visuelle Effekte</color> - Oktober 2024</color></align>
 
-Wir haben den <color=#FF9F80>Endboss</color> von Grund auf überarbeitet. Außerdem feiern wir <color=#ffea46>unglaubliche 3 Jahre</color> voller Updates seit dem Launch. Vielen Dank für eure Unterstützung!
+Wir haben viele <color=#FF9F80>neue visuelle Effekte, Animationen</color> und Verbesserungen in allen Bereichen des Spiels hinzugefügt. Die <color=#335fff>EMP-Chips</color> des Mobilen Malwares wurden für ein besseres Balancing überarbeitet, und die <color=#ffea46>Granatwerfer</color> und Explosions-Chips wurden weiter verbessert.
 
 Siehe die Versionshinweise für alle Details. Viel Spaß!
 
