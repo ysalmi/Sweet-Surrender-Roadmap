@@ -1,7 +1,7 @@
 
-<align="center"><color=#4275f5>Mise à jour 12.1 : Boss final 2.0</color> – Septembre 2024</color></align>
+<align="center"><color=#4275f5>Mise à jour 13 : Nouveaux visuels</color> - Octobre 2024</color></align>
 
-Nous avons entièrement refondu le <color=#FF9F80>boss final</color>. Nous célébrons également <color=#ffea46>3 années incroyables</color> de mises à jour depuis le lancement. Merci pour tout votre soutien !
+Nous avons ajouté de nombreux <color=#FF9F80>nouveaux visuels, effets et animations</color> dans tous les domaines du jeu. Nous avons retravaillé les <color=#335fff>Puces EMP</color> du malware mobile pour un meilleur équilibrage et avons encore amélioré les <color=#ffea46>lance-grenades</color> et les puces d'explosion.
 
 Consultez les notes de version pour tous détails.
 
