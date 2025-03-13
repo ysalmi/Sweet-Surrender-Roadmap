@@ -1,0 +1,28 @@
+[
+	{
+		"update": "14",
+		"title": "NEW",
+		"date": "2024-10-01",
+		"description": "<align=center><color=#00FF00>Update 14: DUMMY</color>",
+		"oculus": "https://meta.com/en-gb/experiences/4723352327707414/",
+		"steam": "https://store.steampowered.com/app/638130/Sweet_Surrender_VR/",
+	},
+	{
+		"update": "13.1",
+		"title": "New Visuals",
+		"date": "2024-10-01",
+		"description": "<align=center><color=#4275f5>Actualización 13: Nuevos efectos visuales</color> - Octubre 2024</color></align>
+
+Hemos añadido un montón de <color=#FF9F80>nuevos efectos visuales, animaciones</color> y mejoras en todas las áreas del juego. Hemos reequilibrado los <color=#335fff>chips EMP</color> del malware móvil para un mejor balance y mejorado aún más los <color=#ffea46>lanzagranadas</color> y los chips de explosión.
+
+Consulte el blog para conocer todos los detalles.
+
+<color=#ffea46>Tu apoyo significa mucho:</color>
+• Comentarios - nos ayudan a mejorar el juego
+• Hoja de ruta - detalles sobre las próximas actualizaciones
+• Discord - Ven a charlar con jugadores de ideas afines
+• Reseñas - Si disfrutaste el juego, por favor deja una reseña positiva, ayuda mucho.",
+		"oculus": "https://www.oculus.com/experiences/quest/developer-post/594506112916458/",
+		"steam": "https://store.steampowered.com/news/app/638130/view/4489618994289967134",
+	},
+]
