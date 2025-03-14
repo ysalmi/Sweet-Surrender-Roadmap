@@ -14,9 +14,9 @@ TODO		",
 		"update": "13.2",
 		"title": "NEW",
 		"date": "2025-14-02",
-		"description": "<align=center><color=#00FF00>Hotfix 13.2: Fixed Daily Leaderboard</color>
+		"description": "<align=center><color=#00FF00>Hotfix 13.2: Fixed Daily Leaderboard</color></align>
 
-Just a hotfix for the daily leaderboard running out of space.",
+Just a hotfix for the daily leaderboard - it ran out of space, sorry.",
 		"oculus": "",
 		"steam": "https://store.steampowered.com/app/638130/Sweet_Surrender_VR/",
 	},
@@ -24,7 +24,8 @@ Just a hotfix for the daily leaderboard running out of space.",
 		"update": "13.1",
 		"title": "NEW",
 		"date": "2025-30-01",
-		"description": "<align=center><color=#00FF00>Update 13.1: Don't Get Lost</color>
+		"description": "<align=center><color=#00FF00>Update 13.1: Don't Get Lost</color></align>
+
 	
 Added a poster in the homebase explaining the map. And quite a few smaller improvements.
 
