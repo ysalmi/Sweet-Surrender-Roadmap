@@ -2,7 +2,7 @@
   "SpecialCodecksTokenEncrypted": "GwAAAB+LCAAAAAAAAAsrKomPjArMLw/JNU0utnSNNHd0M0hO9Qo1SQwFAOcLj6YbAAAA",
   "IsActive": true,
   "SendAlways": false,
-  "ErrorsTotalThreshold": 5,
+  "ErrorsTotalThreshold": 1,
   "ErrorsThresholdPerTimeframe": 5,
   "ErrorsThresholdTimeframeInSeconds": 5.0,
   "FramerateThresholdPerTimeframe": 40,
