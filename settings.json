@@ -2,11 +2,11 @@
   "SpecialCodecksTokenEncrypted": "GwAAAB+LCAAAAAAAAAsrKomPjArMLw/JNU0utnSNNHd0M0hO9Qo1SQwFAOcLj6YbAAAA",
   "IsActive": true,
   "SendAlways": false,
-  "ErrorsTotalThreshold": 0,
+  "ErrorsTotalThreshold": 1,
   "ErrorsThresholdPerTimeframe": 5,
   "ErrorsThresholdTimeframeInSeconds": 5.0,
   "FramerateThresholdPerTimeframe": 40,
-  "FramerateThresholdTimeframeInSeconds": 5.0,
+  "FramerateThresholdTimeframeInSeconds": 20.0,
   "ErrorsToIgnore": [
     "XR: OpenVR Error",
     "Some other bug"
