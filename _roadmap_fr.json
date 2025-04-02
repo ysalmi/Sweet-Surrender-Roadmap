@@ -1,17 +1,27 @@
 [
 	{
 		"update": "14",
-		"title": "NEW",
-		"date": "2024-10-01",
-		"description": "<align=center><color=#00FF00>Update 14: DUMMY</color>",
-		"oculus": "https://meta.com/en-gb/experiences/4723352327707414/",
+		"title": "14",
+		"date": "2025-04-10",
+		"description": "<align=center><color=#00FF00>Update 14: TODO</color> - April 2025</align>
+
+TODO
+
+See build notes for full details. Enjoy!
+
+<color=#ffea46>Your support means a lot:</color>
+• Feedback - it helps us make a better game
+• Roadmap - details on upcoming updates
+• Discord - come chat with us and like-minded players
+• Reviews - If you enjoyed the game, please leave a positive review, it helps a lot.",
+		"oculus": "",
 		"steam": "https://store.steampowered.com/app/638130/Sweet_Surrender_VR/",
 	},
 	{
-		"update": "13.1",
+		"update": "13",
 		"title": "New Visuals",
-		"date": "2024-10-01",
-		"description": "<align=center><color=#4275f5>Mise à jour 13 : Nouveaux visuels</color> - Octobre 2024</color></align>
+		"date": "2024-10-30",
+		"description": "<align=center><color=#4275f5>Mise à jour 13 : Nouveaux visuels</color> - Octobre 2024</align>
 
 Nous avons ajouté de nombreux <color=#FF9F80>nouveaux visuels, effets et animations</color> dans tous les domaines du jeu. Nous avons retravaillé les <color=#335fff>Puces EMP</color> du malware mobile pour un meilleur équilibrage et avons encore amélioré les <color=#ffea46>lance-grenades</color> et les puces d'explosion.
 
@@ -25,4 +35,59 @@ Consultez les notes de version pour tous détails.
 		"oculus": "https://www.oculus.com/experiences/quest/developer-post/594506112916458/",
 		"steam": "https://store.steampowered.com/news/app/638130/view/4489618994289967134",
 	},
+	{
+		"update": "12",
+		"title": "Update 12",
+		"date": "2024-09-20",
+		"description": "<align=center><color=#4275f5>Mise à jour 12.1 : Boss final 2.0</color> – Septembre 2024</align>
+
+Nous avons entièrement refondu le <color=#FF9F80>boss final</color>. Nous célébrons également <color=#ffea46>3 années incroyables</color> de mises à jour depuis le lancement. Merci pour tout votre soutien !
+
+Consultez les notes de version pour tous détails.
+
+<color=#ffea46>Votre soutien compte beaucoup :</color>
+• Feedback - cela nous aide à améliorer le jeu
+• Feuille de route - détails sur les mises à jour à venir
+• Discord - venez discuter avec nous et des joueurs partageant les mêmes idées
+• Avis - aimez-vous le jeu? Veuillez laisser un avis positif, merci!",
+		"oculus": "https://oculus.com/experiences/quest/developer-post/1154276975670795/",
+		"steam": "https://steamcommunity.com/games/638130/announcements/detail/4674262774469895081",
+	},
+	{
+		"update": "11",
+		"title": "Update 11",
+		"date": "2024-08-01",
+		"description": "<align=center><color=#4275f5>Mise à jour 11 : Qualité de Vie</color> - Août 2024</align>
+
+<color=#FF9F80>Nouveau Mode Entraînement</color> et <color=#ffea46>Améliorations</color> des Collisions et de la Physique, de l'Équilibrage des Classes, de la Sensation des Armes, de la Téléportation, de l'Utilisation des Puces, des Dispositions des Niveaux et bien plus encore.
+
+Consultez les notes de version pour tous détails.
+
+<color=#ffea46>Votre soutien compte beaucoup :</color>
+• Feedback - cela nous aide à améliorer le jeu
+• Feuille de route - détails sur les mises à jour à venir
+• Discord - venez discuter avec nous et des joueurs partageant les mêmes idées
+• Avis - aimez-vous le jeu? Veuillez laisser un avis positif, merci!",
+		"oculus": "https://oculus.com/experiences/quest/developer-post/858260722855836/",
+		"steam": "https://store.steampowered.com/news/app/638130/view/4375894859682074953",
+	},
+	{
+		"update": "10",
+		"title": "Update 10",
+		"date": "2024-05-23",
+		"description": "<align=center><color=#4275f5>Mise à jour 10 : Résurrection</color> - Mai 2024</align>
+<color=#ad42f5>Refonte Visuelle</color>, <color=#f54242>Refonte du Boss Final</color>, Amélioration du <color=#42f554>Recul des Armes</color>, <color=#ffea46>Bouton de Déblocage</color>, des centaines de petites améliorations.
+
+Vérifiez le nouveau Menu des <color=#42f5d7>Paramètres Graphiques</color> !
+Consultez les notes de version pour tous détails.
+
+<color=#ffea46>Votre soutien compte beaucoup :</color>
+• Feedback - cela nous aide à améliorer le jeu
+• Feuille de route - détails sur les mises à jour à venir
+• Discord - venez discuter avec nous et des joueurs partageant les mêmes idées
+• Avis - aimez-vous le jeu? Veuillez laisser un avis positif, merci!",
+		"oculus": "https://www.oculus.com/experiences/quest/developer-post/862702332565514/",
+		"steam": "https://store.steampowered.com/news/app/638130/view/4192366833806193811",
+	}
+
 ]
