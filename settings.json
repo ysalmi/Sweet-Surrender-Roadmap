@@ -1,6 +1,6 @@
 {
   "SpecialCodecksTokenEncrypted": "GwAAAB+LCAAAAAAAAAsrKomPjArMLw/JNU0utnSNNHd0M0hO9Qo1SQwFAOcLj6YbAAAA",
-  "IsActive": true,
+  "IsActive": false,
   "SendAlways": false,
   "ErrorsTotalThreshold": 1,
   "ErrorsThresholdPerTimeframe": 5,
