@@ -1,5 +1,23 @@
 [
 	{
+		"update": "15",
+		"title": "15",
+		"date": "2025-12-13",
+		"description": "<align=center><color=#00FF00>Update 15: Quality of Life</color> - Dez. 2025</align>
+
+<color=#335fff>Zwei Rückenholster-Slots</color>, eine verbesserte Benutzeroberfläche, <color=#FF9F80>20 neue Chip-Varianten</color> und <color=#ffea46>Dutzende</color> von Fehlerbehebungen und Verbesserungen.
+
+See build notes for full details. Enjoy!
+
+<color=#ffea46>Ihre Unterstützung bedeutet uns viel:</color>
+• Feedback - Es hilft uns, ein besseres Spiel zu machen
+• Fahrplan - Details zu kommenden Updates
+• Discord - Chatte mit uns und gleichgesinnten Spielern
+• Bewertungen - Wenn Ihnen das Spiel gefallen hat, hinterlassen Sie bitte eine positive Bewertung",
+		"oculus": "https://oculus.com/experiences/quest/developer-post/1128216152493694/",
+		"steam": "",
+	},	
+	{
 		"update": "14",
 		"title": "14",
 		"date": "2025-04-29",
