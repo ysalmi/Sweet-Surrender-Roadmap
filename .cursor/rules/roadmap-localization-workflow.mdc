@@ -1,0 +1,24 @@
+---
+description: Roadmap localization workflow for new update entries
+alwaysApply: true
+---
+
+# Roadmap Localization Workflow
+
+When asked to add new roadmap updates to translation files:
+
+- Source of truth is `_roadmap.json` (latest entries at top).
+- Target files are `_roadmap_de.json`, `_roadmap_es.json`, `_roadmap_fr.json`.
+- Add the same new entries in the same order to each target file.
+- Keep metadata identical to source entry: `update`, `title` number, `date`, `oculus`, `steam`.
+- Translate only:
+  - Text in the heading line inside `<align=center>...`
+  - The first paragraph before "See build notes..." (or equivalent localized line)
+- Preserve all color tags exactly as in source (same tags, same hex values, same placement).
+- From "See build notes..." onward, reuse the existing localized tail from that file's `update 15` block verbatim.
+- Do not rewrite or normalize old entries unless explicitly requested.
+- After edits, verify top-of-file entries in all target files for:
+  - Correct ordering
+  - Correct color tag integrity
+  - Correct link fields
+  - Tail text copied from that locale's `update 15`
