@@ -1,5 +1,41 @@
 [
 	{
+		"update": "16",
+		"title": "16",
+		"date": "2026-05-06",
+		"description": "<align=center><color=#00FF00>Actualización 16: Renovación de Chips Parte 2</color> - Mayo 2026</align>
+
+<color=#335fff>Tercera ranura de chip</color>, <color=#FF9F80>más de 55 chips nuevos</color>, combate reequilibrado y <color=#ffea46>muchísimas mejoras de calidad de vida</color>.
+
+Consulte el blog para conocer todos los detalles.
+
+<color=#ffea46>Tu apoyo significa mucho:</color>
+• Comentarios - nos ayudan a mejorar el juego
+• Hoja de ruta - detalles sobre las próximas actualizaciones
+• Discord - Ven a charlar con jugadores de ideas afines
+• Reseñas - Si disfrutaste el juego, por favor deja una reseña positiva, ayuda mucho",
+		"oculus": "https://www.meta.com/experiences/app/developer-post/1915031972335218/",
+		"steam": "https://steamcommunity.com/games/638130/announcements/detail/654854011470479885",
+	},	
+	{
+		"update": "15.1",
+		"title": "15.1",
+		"date": "2026-02-06",
+		"description": "<align=center><color=#FF0000>Actualización 15.1: Las rosas son rojas</color> - Feb. 2026</align>
+
+Estaciones configurables, un botón de <color=#335fff>agacharse</color>, estadísticas de chips más claras, ajustes de confort, mejoras del <color=#FF9F80>lanzagranadas</color> y correcciones.
+
+Consulte el blog para conocer todos los detalles.
+
+<color=#ffea46>Tu apoyo significa mucho:</color>
+• Comentarios - nos ayudan a mejorar el juego
+• Hoja de ruta - detalles sobre las próximas actualizaciones
+• Discord - Ven a charlar con jugadores de ideas afines
+• Reseñas - Si disfrutaste el juego, por favor deja una reseña positiva, ayuda mucho",
+		"oculus": "https://www.meta.com/experiences/app/developer-post/1327011859237439/",
+		"steam": "https://store.steampowered.com/news/app/638130/view/517485982814044792",
+	},	
+	{
 		"update": "15",
 		"title": "15",
 		"date": "2025-12-13",
