@@ -1,5 +1,59 @@
 [
 	{
+		"update": "16",
+		"title": "16",
+		"date": "2026-05-06",
+		"description": "<align=center><color=#00FF00>Mise à jour 16 : Refonte des puces - Partie 2</color> - Mai 2026</align>
+
+<color=#335fff>Troisième emplacement de puce</color>, <color=#FF9F80>55+ nouvelles puces</color>, combats rééquilibrés et <color=#ffea46>des tonnes d'améliorations de confort</color>.
+
+Consultez les notes de version pour tous détails.
+
+<color=#ffea46>Votre soutien compte beaucoup :</color>
+• Feedback - cela nous aide à améliorer le jeu
+• Feuille de route - détails sur les mises à jour à venir
+• Discord - venez discuter avec nous et des joueurs partageant les mêmes idées
+• Avis - aimez-vous le jeu? Veuillez laisser un avis positif, merci!",
+		"oculus": "https://oculus.com/experiences/app/developer-post/1915031972335218/",
+		"steam": "https://steamcommunity.com/games/638130/announcements/detail/654854011470479885",
+	},		
+	{
+		"update": "15.1",
+		"title": "15.1",
+		"date": "2026-02-06",
+		"description": "<align=center><color=#FF0000>Mise à jour 15.1 : Les roses sont rouges</color> - Févr. 2026</align>
+
+Saisons configurables, un bouton <color=#335fff>s'accroupir</color>, statistiques de puces plus claires, ajustements de confort, améliorations du <color=#FF9F80>lance-grenades</color> et correctifs.
+
+Consultez les notes de version pour tous détails.
+
+<color=#ffea46>Votre soutien compte beaucoup :</color>
+• Feedback - cela nous aide à améliorer le jeu
+• Feuille de route - détails sur les mises à jour à venir
+• Discord - venez discuter avec nous et des joueurs partageant les mêmes idées
+• Avis - aimez-vous le jeu? Veuillez laisser un avis positif, merci!",
+		"oculus": "https://oculus.com/experiences/app/developer-post/1327011859237439/",
+		"steam": "https://store.steampowered.com/news/app/638130/view/517485982814044792",
+	},		
+	{
+		"update": "15",
+		"title": "15",
+		"date": "2025-12-13",
+		"description": "<align=center><color=#00FF00>Mise à jour 15 : Améliorations de confort</color> – Déc. 2025</align>
+
+<color=#335fff>Deux emplacements de holster arrière</color>, une interface améliorée, <color=#FF9F80>20 nouvelles variantes de puces</color> et <color=#ffea46>des dizaines</color> de corrections de bugs et d’améliorations.
+
+Consultez les notes de version pour tous détails.
+
+<color=#ffea46>Votre soutien compte beaucoup :</color>
+• Feedback - cela nous aide à améliorer le jeu
+• Feuille de route - détails sur les mises à jour à venir
+• Discord - venez discuter avec nous et des joueurs partageant les mêmes idées
+• Avis - aimez-vous le jeu? Veuillez laisser un avis positif, merci!",
+		"oculus": "https://oculus.com/experiences/quest/developer-post/1128216152493694/",
+		"steam": "https://store.steampowered.com/news/app/638130/view/649211284269564080",
+	},		
+	{
 		"update": "14",
 		"title": "14",
 		"date": "2025-04-29",
