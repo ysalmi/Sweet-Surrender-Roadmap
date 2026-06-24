@@ -1,5 +1,19 @@
 [
 	{
+		"update": "New Game",
+		"title": "NEXT",
+		"date": "2026-06-24",
+		"description": "<align=center><color=#42f5d7>Anunciamos nuestro próximo juego</color> - Jun. 2026</align>
+
+Nos emociona anunciar <color=#335fff>DRIFTERS: Blackout Crew</color> — un <color=#FF9F80>shooter de extracción cooperativo PvE en VR</color> y sucesor espiritual de Sweet Surrender.
+
+¡Pulsa <color=#335fff>Patch Notes</color> para añadirlo a tu lista de deseados!",
+		"oculus": "https://www.meta.com/experiences/quest/25178928995113487",
+		"steam": "https://store.steampowered.com/app/4701660/DRIFTERS_Blackout_Crew/",
+	},
+
+
+	{
 		"update": "16",
 		"title": "16",
 		"date": "2026-05-06",
